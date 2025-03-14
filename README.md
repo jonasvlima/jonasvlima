@@ -1,4 +1,4 @@
-Hi 👋 My name is Jonas Lima
+Jonas Lima
 ===========================
 
 Software Developer | Java, Spring Boot & Web Development
