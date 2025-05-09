@@ -23,3 +23,5 @@ Jonas Lima is a Fullstack developer with experience in Java, Spring Boot, React,
 ### Badges
 
 <a href="https://github.com/jonasvlima" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasvlima&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasvlima&show_icons=true&locale=en" alt="jonasvlima" /></p>
