@@ -21,7 +21,7 @@
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/jonas-lima-212901261/)  
+- [LinkedIn](https://www.linkedin.com/in/jonas-lima-dev/)  
 - Email: jonvieli01@gmail.com
 
 
