@@ -7,7 +7,7 @@
 
 ## 🌟 Technologies I use
 
-- Java | Spring Boot | PostgreSQL  
+- Java | Spring Boot | PostgreSQL | MongoDB 
 - JavaScript | TypeScript | React | Angular  
 - HTML | CSS | Docker  
 
